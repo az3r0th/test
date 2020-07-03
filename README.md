@@ -7,3 +7,4 @@
 - [beautifulsoup4 · PyPI](https://pypi.org/project/beautifulsoup4/)
 - [Repository — PyGithub 1.51 documentation](https://pygithub.readthedocs.io/en/latest/examples/Repository.html#get-a-specific-content-file)
 - [Discord](https://discordapp.com/channels/727855314057297940/728223856665428049/728298559593775104)
+- [PowerShell: Getting Windows Defender Status from all Domain Joined Computers (Get-AntiMalwareStatus) – SID-500.COM](https://sid-500.com/2018/08/27/powershell-getting-windows-defender-status-from-all-domain-joined-computers-get-antimalwarestatus/)
