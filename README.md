@@ -6,3 +6,4 @@
 - [Repository — PyGithub 1.51 documentation](https://pygithub.readthedocs.io/en/latest/examples/Repository.html#get-a-specific-content-file)
 - [beautifulsoup4 · PyPI](https://pypi.org/project/beautifulsoup4/)
 - [Repository — PyGithub 1.51 documentation](https://pygithub.readthedocs.io/en/latest/examples/Repository.html#get-a-specific-content-file)
+- [Discord](https://discordapp.com/channels/727855314057297940/728223856665428049/728298559593775104)
